@@ -6,7 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=04ritesh&label=Profile%20views&color=0e75b6&style=flat" alt="04ritesh" /> </p>
 
-- 🌱 I’m currently learning **DSA, React JS,**
+- 🌱 I’m currently learning **DSA, React JS**
+
+- 💬 Ask me about **C,C++,JAVA,SQL,React JS.**
+
+- 📫 How to reach me **rockyhandsome1944@gmail.com**
+
+- ⚡ Fun fact **I am funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
