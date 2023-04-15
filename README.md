@@ -1,4 +1,4 @@
-![logo](![logo](https://github.com/Ujjwalkumar2003/Ujjwalkumar2003/blob/main/Ujjwal.png))
+![logo](https://github.com/04ritesh/04ritesh/blob/main/ritesh.png)
 
 <h1 align="center">Hi 👋, I'm Ritesh Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
