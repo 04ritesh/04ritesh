@@ -17,7 +17,7 @@
 - 💼 I work on **Java, Spring Boot, AWS & Microservices**
 - 🌱 Currently learning **DSA, React JS, Next.js**
 - 💬 Ask me about **Java, Spring Boot, SQL, React JS**
-- 📫 Reach me at **rockyhandsome1944@gmail.com**
+- 📫 Reach me at **ritesh.kumar.dev04@gmail.com**
 - ⚡ Fun fact: **I am funny 😅**
 
 ---
